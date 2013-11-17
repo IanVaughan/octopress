@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[It resembles software...]]></title>
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2013-11-17T15:51:17+00:00</updated>
+  <updated>2013-11-17T16:01:10+00:00</updated>
   <id>http://yoursite.com/</id>
   <author>
     <name><![CDATA[Ian Vaughan]]></name>
-    
+    <email><![CDATA[blog@ianvaughan.co.uk]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
