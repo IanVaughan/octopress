@@ -3,8 +3,8 @@
 # ----------------------- #
 
 url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
+title: It resembles software...
+subtitle: Some random ramblings in my dealings with software, tools, and the rest, from work and home.
 author: Ian Vaughan
 simple_search: http://google.com/search
 description:
@@ -17,9 +17,9 @@ date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /atom.xml
-subscribe_email:
+subscribe_email: blog@ianvaughan.co.uk
 # RSS feeds can list your email address if you like
-email:
+email: blog@ianvaughan.co.uk
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -64,7 +64,7 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 
 # Github repositories
 github_user: IanVaughan
-github_repo_count: 1000
+github_repo_count: 3
 github_show_profile_link: true
 github_skip_forks: true
 
